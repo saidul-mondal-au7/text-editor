@@ -494,3 +494,6 @@ main_application.bind('<Control-q>',exit_func)
 main_application.bind('<Control-f>',find_func)
 
 main_application.mainloop()
+
+# https://said-text-editor.herokuapp.com/
+# https://git.heroku.com/said-text-editor.git
